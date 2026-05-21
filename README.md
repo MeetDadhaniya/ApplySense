@@ -66,13 +66,6 @@ No setup required.
 - Works on a single device/browser
 - Not designed for large-scale use
 
-## Future Improvements 🔮
-
-- User authentication
-- Backend and database support
-- Multi-device sync
-- Improved analytics
-- Import from spreadsheets
 
 ## What I Learned 🧠
 
